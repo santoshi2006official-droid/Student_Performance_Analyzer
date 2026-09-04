@@ -41,7 +41,7 @@ The dataset contains academic performance and attendance-related information use
 
 ## Project Structure
 
-```bash
+
 student_performance_analysis/
 │
 ├── Student_Performance_Analyzer.ipynb
