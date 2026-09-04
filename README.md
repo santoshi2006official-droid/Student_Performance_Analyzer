@@ -41,12 +41,13 @@ The dataset contains academic performance and attendance-related information use
 
 ## Project Structure
 
-
+```bash
 student_performance_analysis/
 │
 ├── Student_Performance_Analyzer.ipynb
 ├── Student Academic Performance.xlsx
 └── README.md
+```
 ## Analysis Performed
 
 ### 1. Data Loading and Inspection
